@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "歩道橋",
+  "base_artist": "Nogizaka46",
+  "createdAt": "2025-12-03T14:51:21.346801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "歩道橋",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/01_歩道橋_Nogizaka46.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "歩道橋 - hodoukyo",
+      "artist": "Nogizaka46",
+      "has_synced": true,
+      "path": "select/02_歩道橋_-_hodoukyo_Nogizaka46.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "歩道橋",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_01_歩道橋_乃木坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "歩道橋",
+      "artist": "乃木坂46",
+      "has_synced": false,
+      "path": "select/pl_02_歩道橋_乃木坂46.txt"
+    }
+  ]
+}
